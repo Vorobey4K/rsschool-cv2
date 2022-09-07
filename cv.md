@@ -9,3 +9,11 @@ My goal, as I think many here, is to become a front-end developer.I have no prog
 ## Skills
 * HTML5, CSS3
 * Git
+*JS
+## Code Example
+```javascript
+function multiply(a, b){
+return a * b;
+```
+## **Education**
+* Mikhanovichi secondary school
